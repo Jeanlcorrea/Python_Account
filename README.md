@@ -6,7 +6,7 @@
 <p align="center"> Esse Projeto faz parte do processo seletivo para o Grupo Nexxees. A aplicação é uma conta bancária e nela poderão ser feitos saques, depositos e extrato. </p>
 
 ---
-Nota: Olá entrevistadores, este é o meu projeto! Foi meu primeiro contato com Python, e a primeira vez que integrei um banco de dados em uma aplicação. Tive dificuldades ao criar o extrato e de criar a api rest, optando asssim por criar um banco de dados.
+<p>Nota: Olá entrevistadores, este é o meu projeto! Foi meu primeiro contato com Python, e a primeira vez que integrei um banco de dados em uma aplicação. Tive dificuldades ao criar o extrato e de criar a api rest, optando asssim por criar um banco de dados.</p>
 ---
  
 <p align = "center" >📌 
