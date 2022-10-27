@@ -7,7 +7,7 @@
 
 ---
 <p>Nota: Olá entrevistadores, este é o meu projeto! Foi meu primeiro contato com Python, e a primeira vez que integrei um banco de dados em uma aplicação. Tive dificuldades ao criar o extrato e de criar a api rest, optando asssim por criar um banco de dados.</p>
----
+
  
 <p align = "center" >📌 
     <a href="#">PRÉ-REQUISITOS</a>
